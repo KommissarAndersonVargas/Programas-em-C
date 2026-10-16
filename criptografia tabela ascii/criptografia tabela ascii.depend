@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1655932100 source:c:\users\anderson\desktop\uergs\programação em funções\criptografia tabela ascii\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

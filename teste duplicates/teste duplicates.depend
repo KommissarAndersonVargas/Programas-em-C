@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1651870229 source:c:\users\anderson\desktop\uergs\programação em funções\teste duplicates\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

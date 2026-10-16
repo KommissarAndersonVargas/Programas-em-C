@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1653917251 source:c:\users\anderson\desktop\uergs\programação em funções\fig 7.24 pont\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

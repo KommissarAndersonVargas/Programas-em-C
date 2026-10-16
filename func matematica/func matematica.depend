@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1647184839 source:c:\users\anderson\desktop\uergs\programação em funções\func matematica\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

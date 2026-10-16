@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1646941884 source:c:\users\anderson\desktop\uergs\programação em funções\exercício 5.10\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

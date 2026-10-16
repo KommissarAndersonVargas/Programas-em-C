@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1651867926 source:c:\users\anderson\desktop\uergs\programação em funções\atividade duplicatas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

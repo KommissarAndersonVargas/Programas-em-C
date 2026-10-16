@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1652143111 source:c:\users\anderson\desktop\uergs\programação em funções\teste palindromo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

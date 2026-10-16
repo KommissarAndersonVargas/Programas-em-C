@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1654095882 source:c:\users\anderson\desktop\uergs\programação em funções\exercicio criptografia\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

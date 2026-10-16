@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1652204400 source:c:\users\anderson\desktop\uergs\programação em funções\string limpa\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+

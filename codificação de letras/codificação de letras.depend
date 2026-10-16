@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1656033211 source:c:\users\anderson\desktop\uergs\programação em funções\codificação de letras\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<time.h>
+

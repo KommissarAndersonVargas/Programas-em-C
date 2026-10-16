@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1652281024 source:c:\users\anderson\desktop\uergs\programação em funções\arrumandostrings\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

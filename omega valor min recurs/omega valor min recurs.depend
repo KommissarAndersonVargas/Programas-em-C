@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1653001245 source:c:\users\anderson\desktop\uergs\programação em funções\omega valor min recurs\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

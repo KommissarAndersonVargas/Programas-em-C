@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1656355716 source:c:\users\anderson\desktop\uergs\programação em funções\prog josie\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
